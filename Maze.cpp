@@ -232,7 +232,7 @@ int main()
     size_t size_y = size[1];
     //迷路生成
 
-    createMaze(size_x, size_y, empty_, wall_, root_);//createMazeのクラスに変数を入力
+    createMaze(size_x, size_y, empty_, wall_, root_);//createMazeの関数に変数を入力
 
 
 
